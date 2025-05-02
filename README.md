@@ -66,7 +66,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-![Stream lit app](https://war-impace-analysis.streamlit.app/)
+[Stream lit app](https://war-impace-analysis.streamlit.app/)
 
 The app will automatically:
 
