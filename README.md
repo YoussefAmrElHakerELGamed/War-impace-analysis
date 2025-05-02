@@ -70,7 +70,7 @@ streamlit run app.py
 
 The app will automatically:
 
-1. Fetch data from World Bank API
+1. Fetch data from World Bank 
 2. Clean and process the data
 3. Perform comparative analysis
 4. Launch interactive visualizations
@@ -81,9 +81,7 @@ The app will automatically:
 datatools-wars/
 ├── app.py                # Main Streamlit application
 ├── README.md             # Project documentation
-├── requirements.txt      # Python dependencies
-├── .gitignore            # Files to ignore in version control
-└── assets/               # Optional: Store images/sample data
+├── requirements.txt      # Python dependencies 
 ```
 
 ## 📝 Requirements
@@ -103,9 +101,4 @@ pip install -r requirements.txt
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-```
-
-Let me know if you'd like help generating the LICENSE file or a sample screenshot for the `assets/` folder.
-```
+Distributed under the MIT License. See `LICENSE` for more information
