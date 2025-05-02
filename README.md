@@ -1,5 +1,3 @@
-Here’s your complete `README.md` file written in a single section with no collapsible parts, ready to paste into your repository:
-
 # DataTools Wars: Economic Impact Analysis of Modern Conflicts
 
 ![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
